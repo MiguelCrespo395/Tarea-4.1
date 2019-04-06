@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/4.1 Poo Tarea.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

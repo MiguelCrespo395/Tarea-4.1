@@ -1,0 +1,11 @@
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/bin/Debug/netcoreapp2.2/4.1 Poo Tarea.deps.json
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/bin/Debug/netcoreapp2.2/4.1 Poo Tarea.runtimeconfig.json
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/bin/Debug/netcoreapp2.2/4.1 Poo Tarea.runtimeconfig.dev.json
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/bin/Debug/netcoreapp2.2/4.1 Poo Tarea.dll
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/bin/Debug/netcoreapp2.2/4.1 Poo Tarea.pdb
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/obj/Debug/netcoreapp2.2/4.1 Poo Tarea.csprojAssemblyReference.cache
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/obj/Debug/netcoreapp2.2/4.1 Poo Tarea.csproj.CoreCompileInputs.cache
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/obj/Debug/netcoreapp2.2/4.1 Poo Tarea.AssemblyInfoInputs.cache
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/obj/Debug/netcoreapp2.2/4.1 Poo Tarea.AssemblyInfo.cs
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/obj/Debug/netcoreapp2.2/4.1 Poo Tarea.dll
+/home/ninja007/Documentos/Visual Studio/4.1 Poo Tarea/obj/Debug/netcoreapp2.2/4.1 Poo Tarea.pdb
